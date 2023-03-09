@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iramikken
 - 👀 I’m interested in all things PHP and JavaScript
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on LARAVEL projects
+- 🌱 I’m currently developping
+- 💞️ I’m looking to collaborate on LARAVEL or php projects
 - 📫 How to reach me - email: iramikken@gmail.com
 
 <!---
